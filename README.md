@@ -12,7 +12,7 @@ This project combines handwritten solutions with Python visualizations to ensure
 
 All videos are conveniently stored in a Google Drive folder for easy access. Click the link below to view them:  
 
-[Watch the Presentation on Google Drive]([https://drive.google.com/your-shareable-link](https://drive.google.com/drive/folders/1PrdspI8azPgQwndJXe5iSf5g0ixTuvOo?usp=sharing))  
+[Watch the Presentation on Google Drive](https://drive.google.com/drive/folders/1PrdspI8azPgQwndJXe5iSf5g0ixTuvOo?usp=sharing)  
 
 ### Recommended Viewing Order  
 To get the best experience, watch the videos in the following order:  
