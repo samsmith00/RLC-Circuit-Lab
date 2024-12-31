@@ -9,7 +9,8 @@ This project combines handwritten solutions with Python visualizations to ensure
 - **Topics Covered:** The animations delve into sub-topics like damping behavior (underdamped, overdamped, critically damped) and showcase the dynamics of RLC circuits through phase portraits and eigenvalue analysis.    
 
 ## How to Watch Presentation  
-The videos for the presentation are stored in the `scenes` folder. Watch them in the following order for the best experience:  
+The videos for the presentation are located in the following directory: `scenes/media/videos`. 
+Watch them in the following order for the best experience:  
 1. `Question_One.mp4`  
 2. `Question_Two.mp4`  
    - `Underdamped.mp4`  
