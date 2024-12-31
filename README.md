@@ -2,7 +2,7 @@
 Final Project for MATH 221: Differential Equations  
 This project demonstrates concepts such as linear systems, straight-line solutions, phase portraits, complex eigenvalues, and second-order linear equations using RLC circuits as a case study. 
 
-## Methodology  https://github.com/samsmith00/RLC-Circuit-Lab/blob/main/README.md
+## Methodology  
 This project combines handwritten solutions with Python visualizations to ensure a thorough understanding of the material.  
 - **Problem-Solving:** Each problem was solved analytically on paper before being translated into Python.  
 - **Visualization:** The Manim Python library was used to create animations to explain concepts and demonstrate solutions visually.  
