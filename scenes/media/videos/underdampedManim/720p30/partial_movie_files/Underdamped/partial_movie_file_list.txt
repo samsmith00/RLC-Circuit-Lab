@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/2016333726_3202324389_223132457.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_3636024140_194891659.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_1397182970_1727273807.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_3563073124_2474456651.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_1704852926_2185692665.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_525114090_2192123704.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_3890345977_2686006338.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/543634251_68657975_167008206.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/88437337_123554531_3575522511.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/88437337_263460837_2058700427.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/underdampedManim/720p30/partial_movie_files/Underdamped/88437337_377631189_2914821095.mp4'

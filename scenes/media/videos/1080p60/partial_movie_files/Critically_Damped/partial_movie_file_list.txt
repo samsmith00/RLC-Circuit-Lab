@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/3977891868_3293747045_223132457.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_3636024140_2509375203.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_3856964398_2937793422.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_2547363503_4131463022.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_1704852926_3474718266.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_2037139732_2098787243.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_3890345977_2806541975.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2852726489_1014794603_2083375501.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/1080p60/partial_movie_files/Critically_Damped/2781850712_123554531_820752009.mp4'

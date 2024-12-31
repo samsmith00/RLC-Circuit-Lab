@@ -1,0 +1,15 @@
+\documentclass[preview]{standalone}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+\begin{center}
+\begin{circuitikz}
+                        \draw
+                        (0,0) to[battery1] (0,3)
+                            to[resistor] (3,3)
+                            to[capacitor] (3,0)
+                            -- (0,0);
+                    \end{circuitikz}
+\end{center}
+\end{document}

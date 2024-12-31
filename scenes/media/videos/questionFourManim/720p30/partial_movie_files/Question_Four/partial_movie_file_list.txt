@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/2016333726_4075269743_223132457.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_3636024140_189794125.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_767851830_223132457.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_4090973459_1996956612.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_3897643655_231280694.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_1141282389_1115675666.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_2169292543_2614688830.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_2842356857_3444700855.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/questionFourManim/720p30/partial_movie_files/Question_Four/543634251_1704852926_2454096215.mp4'

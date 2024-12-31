@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/2016333726_4131686655_223132457.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_3636024140_2632785906.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_3420992567_511632860.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_1863625722_3641293274.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_1704852926_2325599222.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_3039521054_3440614348.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_3890345977_952859660.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/543634251_896619345_1789321802.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/4240756758_123554531_1091309732.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/4240756758_263460837_238960075.mp4'
+file 'file:/Users/samsmith/Desktop/RLC-Circuit-Project/scenes/media/videos/overdampedManim/720p30/partial_movie_files/Overdamped/4240756758_4010979587_3205853751.mp4'
